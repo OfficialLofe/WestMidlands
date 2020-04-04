@@ -22,14 +22,14 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: false
+  useLogo: true
   disrupted: '#cc4400'
   notice: '#24478f'
   incidentHistoryFormat: monthly
   ok: '#008000'
   categories:
     - name: Systems
-      closed: true
+      closed: false
   description: 'West Midlands'' Status Page, any downtime or updates will be posted here.'
   useLargeHeaderDesign: false
 theme: cstate
