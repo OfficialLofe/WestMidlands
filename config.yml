@@ -10,12 +10,12 @@ params:
   systems:
     - name: Game
       category: Systems
-      description: The West Midlands game
+      description: The West Midlands Game
     - name: Discord
       category: Systems
       description: Our chat server.
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#0a0c0f'
+  brand: '#7289DA'
   headerTextColor: white
   logo: /img/westmi.png
   incidentPostsPerPage: 10
