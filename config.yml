@@ -6,7 +6,7 @@ baseURL: /
 params:
   disableDarkMode: true
   shortDateFormat: '15:04 — Jan 2'
-  down: '#e60000'
+  down: '#a83232'
   systems:
     - name: Game
       category: Systems
