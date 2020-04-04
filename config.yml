@@ -1,4 +1,4 @@
-title: Eggsample Status
+title: West Midlands
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -40,9 +40,7 @@ params:
     - name: East Coast
     - name: Uncategorized
       untitled: true
-  description: >-
-    We continuously monitor the status of our services and if there are any
-    interruptions, a note will be posted here.
+  description: 'West Midlands'' Status Page, any downtime or updates will be posted here.'
   useLargeHeaderDesign: false
 theme: cstate
 preserveTaxonomyNames: true
