@@ -1,12 +1,13 @@
 ---
 section: issue
 title: Major bug in game
-date: 2020-04-06T20:07:11.454Z
+date: "2020-04-06T20:07:11.454Z"
 resolved: false
 informational: false
-resolvedWhen: 2020-04-06T20:07:11.522Z
+resolvedWhen: "2020-04-06T20:07:11.522Z"
 affected:
   - game
-severity: down
+severity: notice
 ---
-Game is down till further notice 
+**We are performing major maintenance on all of our systems.**\
+We appreciate your patience with this matter.
