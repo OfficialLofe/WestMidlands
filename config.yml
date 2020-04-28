@@ -5,8 +5,8 @@ languageCode: en
 baseURL: /
 params:
   disableDarkMode: true
-  shortDateFormat: '15:04 — Jan 2'
-  down: '#a83232'
+  shortDateFormat: 15:04 — Jan 2
+  down: "#a83232"
   systems:
     - name: Game
       category: Systems
@@ -14,23 +14,23 @@ params:
     - name: Discord
       category: Systems
       description: Our chat server.
-  dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#7289DA'
-  headerTextColor: white
+  dateFormat: January 2, 2006 at 3:04 PM
+  brand: "#7289DA"
+  headerTextColor: black
   logo: /img/westmi.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
-  disrupted: '#cc4400'
-  notice: '#24478f'
+  disrupted: "#cc4400"
+  notice: "#24478f"
   incidentHistoryFormat: monthly
-  ok: '#008000'
+  ok: "#008000"
   categories:
     - name: Systems
       closed: false
-  description: 'West Midlands'' Status Page, any downtime or updates will be posted here.'
+  description: West Midlands' Status Page, any downtime or updates will be posted here.
   useLargeHeaderDesign: false
 theme: cstate
 preserveTaxonomyNames: true
